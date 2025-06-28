@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Russell 2000 Earnings Surprise Options Strategy
 
 A comprehensive quantitative trading strategy for QuantConnect that targets Russell 2000 stocks with the biggest earnings surprises and implements sophisticated options strategies with dynamic risk management.
@@ -226,3 +227,7 @@ This strategy is designed for educational and research purposes. Users should:
 - Adjust parameters for their risk tolerance
 
 For questions or improvements, review the code comments and QuantConnect documentation.
+=======
+# russell2000earningsstrategy
+Suprise earnings report only applied to Russell2000 
+>>>>>>> caefbe2ea1133fad8a0ef40995690ec242e45fcd
