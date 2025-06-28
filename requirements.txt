@@ -1,0 +1,20 @@
+# QuantConnect Algorithm Framework Requirements
+# These packages are typically available in QuantConnect environment
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Optional: For local development/testing
+# quantconnect-stubs  # Type hints for QuantConnect API
+# matplotlib>=3.3.0   # For plotting (if running locally)
+# jupyter>=1.0.0      # For notebook development
+
+# Note: QuantConnect cloud environment includes:
+# - AlgorithmImports (QuantConnect framework)
+# - All major scientific computing libraries
+# - Pre-configured trading and data infrastructure
+
+# For local development, you would need:
+# pip install quantconnect-lean
